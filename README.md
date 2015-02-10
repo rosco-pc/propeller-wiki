@@ -1,2 +1,2 @@
 # propeller-wiki
-go to the [wiki]
+go to the [wiki](wiki)
