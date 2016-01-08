@@ -1,5 +1,6 @@
-# propeller-wiki
-A copy of [propeller wikispaces](http://propeller.wikispaces.com/) which has an expired subscription and is no longer reachable. 
-I'm in the process of converting the wikispaces 'mediawiki' dump to github's markdown flavour, but it a slow going process (too much going on in real life)
+# Propeller-Wiki
+A copy of [Propeller Wikispaces](http://propeller.wikispaces.com/) that is no longer reachable due to an expired subscription.
 
-go to the [wiki](https://github.com/rosco-pc/propeller-wiki/wiki)
+Propeller community members and myself are in the process of converting the Wikispaces 'mediawiki' dump to GitHub's markdown flavour.
+
+Visit the [wiki](https://github.com/rosco-pc/propeller-wiki/wiki)
